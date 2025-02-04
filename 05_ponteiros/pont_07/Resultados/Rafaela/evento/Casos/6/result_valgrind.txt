@@ -1,0 +1,6 @@
+==37276== Memcheck, a memory error detector
+==37276== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==37276== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==37276== Command: Resultados/Rafaela/evento/prog Resultados/Rafaela/evento/Casos/6
+==37276== Parent PID: 37275
+==37276== 
